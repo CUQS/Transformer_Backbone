@@ -70,6 +70,9 @@ plt.show()
 - SAM
   - Sharpness-Aware Minimization for Efficiently Improving Generalization
   - [papers_with_code](https://paperswithcode.com/paper/sharpness-aware-minimization-for-efficiently-1)
+- NoisyStudent
+  - Self-training with Noisy Student improves ImageNet classification
+  - [papers_with_code](https://paperswithcode.com/paper/self-training-with-noisy-student-improves)
 - NFNet
   - High-Performance Large-Scale Image Recognition Without Normalization
   - [papers_with_code](https://paperswithcode.com/paper/high-performance-large-scale-image)
@@ -79,6 +82,9 @@ plt.show()
 - BiT
   - Big Transfer (BiT): General Visual Representation Learning
   - [papers_with_code](https://paperswithcode.com/paper/large-scale-learning-of-general-visual)
+- MAE
+  - Masked Autoencoders Are Scalable Vision Learners
+  - [papers_with_code](https://paperswithcode.com/paper/masked-autoencoders-are-scalable-vision)
 - Focal
   - Focal Attention for Long-Range Interactions in Vision Transformers
   - [paper & code](https://papers.nips.cc/paper/2021/hash/fc1a36821b02abbd2503fd949bfc9131-Abstract.html)
@@ -112,6 +118,15 @@ plt.show()
 - ViT
   - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
   - [papers_with_code](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1)
+- HRFormer
+  - HRFormer: High-Resolution Vision Transformer for Dense Predict
+  - [paper & code](https://papers.nips.cc/paper/2021/hash/3bbfdde8842a5c44a0323518eec97cbe-Abstract.html)
+- Conformer
+  - Conformer: Local Features Coupling Global Representations for Visual Recognition
+  - [papers_with_code](https://paperswithcode.com/paper/conformer-local-features-coupling-global)
+- FixEfficientNet
+  - Fixing the train-test resolution discrepancy: FixEfficientNet
+  - [papers_with_code](https://paperswithcode.com/paper/fixing-the-train-test-resolution-discrepancy-2)
 - EfficientNet
   - EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
   - [papers_with_code](https://paperswithcode.com/method/efficientnet)
