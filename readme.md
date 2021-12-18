@@ -4,9 +4,14 @@
 
 <img src="output.png" width="800">
 
+requirements
+
+- [adjustText](https://github.com/Phlya/adjustText)
+
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
+from adjustText import adjust_text
 data = pd.read_csv("backbone_performance.csv")
 
 # sort_values = "FLOPs(B)"
@@ -19,16 +24,18 @@ df = df[df[sort_values]<700]
 groups = df.groupby("Method")
 fig, ax = plt.subplots(figsize=(36.0, 27.0))
 ax.margins(0.05)
+texts = []
 for name, group in groups:
     group_max_idx = group.groupby(['Model'])['Acc'].transform(max) == group['Acc']
     group_t = group[group_max_idx]
     group_t = group_t.sort_values(sort_values)
     ax.plot(group_t[sort_values], group_t["Acc"], marker='o', linestyle='-', ms=5, label=name)
     for k, v in group_t.iterrows():
-        ax.annotate(v['Model']+"_"+str(v['Size']), [v[sort_values], v['Acc']],
-                    xytext=(-10,5), textcoords='offset points',
-                    family='sans-serif', fontsize=15, color='darkslategrey')
-
+        texts.append(ax.text(v[sort_values], v['Acc'], v['Model']+"_"+str(v['Size'])))
+        # ax.annotate(v['Model']+"_"+str(v['Size']), [v[sort_values], v['Acc']],
+        #             xytext=(-10,5), textcoords='offset points',
+        #             family='sans-serif', fontsize=15, color='darkslategrey')
+adjust_text(texts, arrowprops=dict(arrowstyle='->', color='black'))
 fig.tight_layout()
 plt.legend(fontsize=20,loc='lower right')
 plt.tick_params(labelsize=20)
