@@ -52,6 +52,9 @@ plt.show()
 - Florence
   - Florence: A New Foundation Model for Computer Vision
   - [paper](https://arxiv.org/abs/2111.11432v1)
+- ALIGN
+  - Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision
+  - [papers_with_code](https://paperswithcode.com/paper/scaling-up-visual-and-vision-language)
 - MViTv2
   - Improved Multiscale Vision Transformers for Classification and Detection
   - [paper](https://arxiv.org/abs/2112.01526v1)
@@ -61,6 +64,27 @@ plt.show()
 - BEiT
   - BEiT: BERT Pre-Training of Image Transformers
   - [papers_with_code](https://paperswithcode.com/paper/beit-bert-pre-training-of-image-transformers)
+- Meta_Pseudo_Labels
+  - Meta Pseudo Labels
+  - [papers_with_code](https://paperswithcode.com/paper/meta-pseudo-labels)
+- SAM
+  - Sharpness-Aware Minimization for Efficiently Improving Generalization
+  - [papers_with_code](https://paperswithcode.com/paper/sharpness-aware-minimization-for-efficiently-1)
+- NFNet
+  - High-Performance Large-Scale Image Recognition Without Normalization
+  - [papers_with_code](https://paperswithcode.com/paper/high-performance-large-scale-image)
+- TokenLearner
+  - TokenLearner: What Can 8 Learned Tokens Do for Images and Videos?
+  - [papers_with_code](https://paperswithcode.com/paper/tokenlearner-what-can-8-learned-tokens-do-for)
+- BiT
+  - Big Transfer (BiT): General Visual Representation Learning
+  - [papers_with_code](https://paperswithcode.com/paper/large-scale-learning-of-general-visual)
+- Focal
+  - Focal Attention for Long-Range Interactions in Vision Transformers
+  - [paper & code](https://papers.nips.cc/paper/2021/hash/fc1a36821b02abbd2503fd949bfc9131-Abstract.html)
+- MetaFormer
+  - MetaFormer is Actually What You Need for Vision
+  - [papers_with_code](https://paperswithcode.com/paper/metaformer-is-actually-what-you-need-for)
 - CSWin
   - CSWin Transformer: A General Vision Transformer Backbone with Cross-Shaped Windows
   - [papers_with_code](https://paperswithcode.com/paper/cswin-transformer-a-general-vision)
@@ -88,4 +112,7 @@ plt.show()
 - ViT
   - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
   - [papers_with_code](https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1)
+- EfficientNet
+  - EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+  - [papers_with_code](https://paperswithcode.com/method/efficientnet)
 - 
