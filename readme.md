@@ -104,7 +104,13 @@ Example
 - FixEfficientNet
   - Fixing the train-test resolution discrepancy: FixEfficientNet
   - [papers_with_code](https://paperswithcode.com/paper/fixing-the-train-test-resolution-discrepancy-2)
+- EfficientNetV2
+  - EfficientNetV2: Smaller Models and Faster Training
+  - [papers_with_code](https://paperswithcode.com/paper/efficientnetv2-smaller-models-and-faster)
 - EfficientNet
   - EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
   - [papers_with_code](https://paperswithcode.com/method/efficientnet)
+- Pale
+  - Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention
+  - [paper](https://arxiv.org/abs/2112.14000)
 - 
