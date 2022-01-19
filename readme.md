@@ -113,4 +113,10 @@ Example
 - Pale
   - Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention
   - [paper](https://arxiv.org/abs/2112.14000)
+- VOLO
+  - VOLO: Vision Outlooker for Visual Recognition
+  - [papers_with_code](https://paperswithcode.com/paper/volo-vision-outlooker-for-visual-recognition)
+- ELSA
+  - ELSA: Enhanced Local Self-Attention for Vision Transformer
+  - [papers_with_code](https://paperswithcode.com/paper/elsa-enhanced-local-self-attention-for-vision)
 - 
