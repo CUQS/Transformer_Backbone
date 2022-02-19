@@ -119,4 +119,7 @@ Example
 - ELSA
   - ELSA: Enhanced Local Self-Attention for Vision Transformer
   - [papers_with_code](https://paperswithcode.com/paper/elsa-enhanced-local-self-attention-for-vision)
+- DAT
+  - Vision Transformer with Deformable Attention
+  - [github](https://github.com/LeapLabTHU/DAT)
 - 
