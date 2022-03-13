@@ -205,3 +205,11 @@ Date,TrainSet,Method,Size,Model,Params(M),FLOPs(B),Acc
 -,ImageNet-1K,DAT,224,DAT-S,50,9.0,83.7
 -,ImageNet-1K,DAT,224,DAT-B,88,15.8,84.0
 -,ImageNet-1K,DAT,384,DAT-B,88,49.8,84.8
+-,ImageNet-1K,As-ViT,224,As-ViT-Small,29.0,5.3,81.2
+-,ImageNet-1K,As-ViT,224,As-ViT-Base,52.6,8.9,82.5
+-,ImageNet-1K,As-ViT,224,As-ViT-Large,88.1,22.6,83.5
+-,ImageNet-1K,CycleMLP,224,CycleMLP-B1,15,2.1,78.9
+-,ImageNet-1K,CycleMLP,224,CycleMLP-B2,27,3.9,81.6
+-,ImageNet-1K,CycleMLP,224,CycleMLP-B3,38,6.9,82.4
+-,ImageNet-1K,CycleMLP,224,CycleMLP-S,50,8.5,82.9
+-,ImageNet-1K,CycleMLP,224,CycleMLP-B,88,15.2,83.4

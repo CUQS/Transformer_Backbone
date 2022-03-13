@@ -122,4 +122,10 @@ Example
 - DAT
   - Vision Transformer with Deformable Attention
   - [github](https://github.com/LeapLabTHU/DAT)
+- As-ViT
+  - Auto-scaling Vision Transformers without Training
+  - [github](https://github.com/VITA-Group/AsViT)
+- CycleMLP
+  - CycleMLP: A MLP-like Architecture for Dense Prediction
+  - [github](https://github.com/ShoufaChen/CycleMLP)
 - 
