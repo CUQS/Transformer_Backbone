@@ -128,4 +128,16 @@ Example
 - CycleMLP
   - CycleMLP: A MLP-like Architecture for Dense Prediction
   - [github](https://github.com/ShoufaChen/CycleMLP)
+- CrossFormer
+  - CrossFormer: A Versatile Vision Transformer Hinging on Cross-scale Attention
+  - [github](https://github.com/cheerss/CrossFormer)
+- AS-MLP
+  - AS-MLP: An Axial Shifted MLP Architecture for Vision
+  - [github](https://github.com/svip-lab/AS-MLP)
+- VAN
+  - Visual Attention Network
+  - [github](https://github.com/Visual-Attention-Network/VAN-Classification)
+- ConvNeXt
+  - A ConvNet for the 2020s
+  - [github](https://github.com/facebookresearch/ConvNeXt)
 - 
